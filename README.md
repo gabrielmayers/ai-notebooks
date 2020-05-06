@@ -1,4 +1,4 @@
 # ai-notebooks
-Here, i'll put all the stuffs i learned or learning... and some experiments ;)
+Here, I'll put all the projects from courses, seminars and lectures... And some emperiments ;)
 
 Enjoy =)
