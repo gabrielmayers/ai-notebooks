@@ -14,3 +14,11 @@ Enjoy =)
 |  Logistic Regression 🏪 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Logistic_Regression_Twitter_Kaggle_Challenge.ipynb) |
 |  Random Forest 🌳 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Random_Forest_Wine.ipynb) |
 |  SVM 📈 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/SVM_Breast_Cancer.ipynb) |
+
+## Articles:
+
+You can check my articles about some Notebooks of this repository
+
+| Algorithm  |  Article  |
+| ------------------- | ------------------- |
+|  SVM 📈 |  [here](https://medium.com/analytics-vidhya/classifying-malignant-or-benignant-breast-cancer-using-svm-fe36f139dd21) |
