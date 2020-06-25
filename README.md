@@ -22,3 +22,4 @@ You can check my articles about some Notebooks of this repository
 | Algorithm  |  Article  |
 | ------------------- | ------------------- |
 |  SVM 📈 |  [here](https://medium.com/analytics-vidhya/classifying-malignant-or-benignant-breast-cancer-using-svm-fe36f139dd21) |
+|  Random Forest 🌳 |  [here](https://medium.com/analytics-vidhya/wine-and-machine-learning-efec11cd4d69) |
