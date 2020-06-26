@@ -1,4 +1,4 @@
-# ai-notebooks
+# Artificial Intelligence Notebooks:
 Here, I'll put all the projects from courses, seminars and lectures... And some emperiments ;)
 
 Enjoy =)
