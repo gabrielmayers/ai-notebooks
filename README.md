@@ -14,6 +14,7 @@ Enjoy =)
 |  Logistic Regression 🏪 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Logistic_Regression_Twitter_Kaggle_Challenge.ipynb) |
 |  Random Forest 🌳 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Random_Forest_Wine.ipynb) |
 |  SVM 📈 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/SVM_Breast_Cancer.ipynb) |
+|  Q-Learning 🎮 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Reinforcement_Learning_Q_Learning.ipynb) |
 
 ## Articles:
 
