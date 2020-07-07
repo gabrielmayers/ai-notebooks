@@ -25,3 +25,5 @@ You can check my articles about some Notebooks of this repository
 |  SVM 📈 |  [here](https://medium.com/analytics-vidhya/classifying-malignant-or-benignant-breast-cancer-using-svm-fe36f139dd21) |
 |  Random Forest 🌳 |  [here](https://medium.com/analytics-vidhya/wine-and-machine-learning-efec11cd4d69) |
 |  Recurrent Neural Networks (NLP) ◀️ |  [here](https://medium.com/me/stats/post/ebf6c202b9d5) |
+|  Artificial Neural Networks (Titanic Challenge) ⛵ |  [here](https://medium.com/analytics-vidhya/solving-titanic-machine-learning-from-disaster-using-neural-networks-and-tensorflow-2abade61994a) |
+|  Logistic Regression (Loan Risky Prediction) |  [here](hhttps://medium.com/analytics-vidhya/loan-risk-prediction-using-machine-learning-fff008622bfe) |
