@@ -27,3 +27,4 @@ You can check my articles about some Notebooks of this repository
 |  Recurrent Neural Networks (NLP) ◀️ |  [here](https://medium.com/me/stats/post/ebf6c202b9d5) |
 |  Artificial Neural Networks (Titanic Challenge) ⛵ |  [here](https://medium.com/analytics-vidhya/solving-titanic-machine-learning-from-disaster-using-neural-networks-and-tensorflow-2abade61994a) |
 |  Logistic Regression (Loan Risky Prediction) 💰 |  [here](https://medium.com/analytics-vidhya/loan-risk-prediction-using-machine-learning-fff008622bfe) |
+|  Q-Learning (Driving Taxis with Reinforcement Learning) 💰 |  [here](https://medium.com/analytics-vidhya/reinforcement-learning-using-q-learning-to-drive-a-taxi-5720f7cf38df) |
