@@ -16,6 +16,7 @@ Enjoy =)
 |  SVM 📈 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/SVM_Breast_Cancer.ipynb) |
 |  Q-Learning (Frozen Lake) 🎮 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/Reinforcement_Learning_Q_Learning.ipynb) |
 |  Q-Learning (Taxi-V3) 🎮 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/QLearning_Taxi_V3.ipynb) |
+|  Autoencoders (Just a Simple Understanding) 🕉 |  [here](https://github.com/gabrielmayers/ai-notebooks/blob/master/QLearning_Taxi_V3.ipynb) |
 
 ## Articles:
 
